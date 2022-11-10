@@ -1,0 +1,52 @@
+.AddLivInput {
+    border: none !important;
+    width: 90%;
+}
+
+.AddLivInput :hover,
+.AddLivInput:active,
+.AddLivInput:focus {
+    border-color: none !important;
+    box-shadow: none !important;
+    
+}
+
+input[type=password]::-ms-reveal,
+input[type=password]::-ms-clear {
+    display: none;
+}
+
+.pass-div {
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    margin-right: calc(var(--bs-gutter-x) * .0);
+    margin-left: calc(var(--bs-gutter-x) * .0);
+}
+
+.pass-div1 {
+    height: 100%;
+    width: 90%;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    background-color: rebeccapurple;
+}
+
+.eye-liv {
+
+    font-size: 8px !important;
+    cursor: pointer;
+    color: #686868 !important;
+}
+
+.iconEye {
+    /* float: right;
+    top: 30px;
+    width: 7%;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center; */
+}
+
+.label-input {
+    padding: 1rem 1rem !important;
+}

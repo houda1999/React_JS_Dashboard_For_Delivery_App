@@ -1,0 +1,27 @@
+.ant-btn-primary{
+    background-color: #373a47 !important;
+    border-color : #373a47 !important;
+}
+.anticon:hover
+{
+ color: #ffca2c !important;
+}
+.ant-spin-text
+{
+    color: #373a47 !important;
+}
+.ant-spin-dot-item
+{
+    background-color: #373a47 !important;
+}
+.see-plats
+{
+    color: #ffca2c !important;
+    text-decoration: underline !important;
+    font-weight: bold;
+    font-size: 15px;
+}
+.see-plats:hover , .see-plats:focus
+{
+    font-size: 16px;
+}

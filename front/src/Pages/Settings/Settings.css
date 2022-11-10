@@ -1,0 +1,21 @@
+.label-input
+{
+    margin-left: 5px;
+}
+.edit-input
+{
+    margin-bottom: 10px;
+}
+.save-button
+{
+    width: 100%;
+}
+.principal
+{
+    margin-top: 30 !important;
+}
+.modify-button
+{
+    margin-top: 10px;
+    width: 50%;
+}

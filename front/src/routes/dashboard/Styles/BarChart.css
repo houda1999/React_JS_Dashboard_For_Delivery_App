@@ -1,0 +1,48 @@
+.chart-principal
+{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    border: 2px solid rgba(0, 0, 0, .08);
+    border-radius: .375rem;
+    background-color: #fff;
+    background-clip: border-box;
+    margin-right: 2px;
+    margin-left: 2px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.bar-title
+{
+   padding-left: 1em;
+   padding-bottom: 0.5em;
+   text-align: center;
+   font-size: 25px;
+}
+.Line
+{
+    position: relative;
+    min-width: 0;
+    border: 2px solid rgba(0, 0, 0, .08);
+    border-radius: .375rem;
+    background-color: #fff;
+    background-clip: border-box;
+    padding-top: 1em;
+    margin-right: 2px;
+    margin-left: 25px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.Pie
+{
+    position: relative;
+    min-width: 0;
+    border: 2px solid rgba(0, 0, 0, .08);
+    border-radius: .375rem;
+    background-color: #fff;
+    background-clip: border-box;
+    padding-top: 1em;
+  
+}
