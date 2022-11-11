@@ -26,9 +26,10 @@ In this interface the administrator manages all the restaurants. He has the righ
 
 ![res](https://user-images.githubusercontent.com/45874875/201233050-52dcf6b2-e8c5-465a-9843-c359bd907909.PNG)
 
-    To manages  the list of dishes of each restaurant, the administrator can enter at
-    "See dishes" link which will display this page:
-    ![plat](https://user-images.githubusercontent.com/45874875/201233228-6f281102-500d-464a-861c-681e7c5616dc.PNG)
+To manages  the list of dishes of each restaurant, the administrator can enter at
+"See dishes" link which will display this page:
+
+![plat](https://user-images.githubusercontent.com/45874875/201233228-6f281102-500d-464a-861c-681e7c5616dc.PNG)
 
 
 In this interface the administrator manages all the clients
