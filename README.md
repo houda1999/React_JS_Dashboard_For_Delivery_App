@@ -1,5 +1,6 @@
 # React_JS_Dashboard_For_Delivery_App
-This application is a dashboard for a delivery agency for Moroccan dishes
+This application is a dashboard for a delivery agency for Moroccan dishes.
+For frontend I used ( React.js ) and for backend (Node.js) / MongoDB database.
 
 The administrator authenticates with his email and a password in this interface
 
